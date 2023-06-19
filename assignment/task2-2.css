@@ -1,0 +1,26 @@
+h1 {color: blue;
+font-size: 24px;
+}
+.my-class{
+    font-weight: bold;
+    
+}
+input[type="text"]{
+    border: 2px solid gray;
+    
+}
+ul li{
+    color: green;
+}
+div p {
+    background-color: yellowgreen;
+}
+ 
+  a:visited {
+    color: #cd2d58;
+  }
+
+  p{
+    border-bottom-style: solid;
+    border-color: rgb(94, 11, 219);
+  }
